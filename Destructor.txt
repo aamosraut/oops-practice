@@ -1,0 +1,21 @@
+Destructor 
+--> Special type of member function that will be automatically called 
+--> name same as class name 
+--> public section
+--> no return
+ 
+ Difference:
+ --> called when an object is destroyed.
+   --> when the life of object ends.
+ --> doesn't accept arguments.
+  --> use tilde (~) sign before destructor.
+  --> only one destructor in class
+  --> no destructor overloading
+
+  General use:
+  --> Free up memory, free up resources 
+  -->clean up activities
+  
+
+
+

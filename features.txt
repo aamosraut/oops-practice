@@ -1,0 +1,5 @@
+Features of OOPs
+- Inheritance
+- Encapsulation
+- polymorphism
+- Abstraction

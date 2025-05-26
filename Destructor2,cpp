@@ -1,0 +1,26 @@
+
+#include<iostream>
+
+using namespace std;
+
+class Ninja {
+    public:
+
+    Ninja (){
+        cout<<"I am constructor . "<<endl;
+    }
+
+    ~Ninja(){
+        cout<<"I am Destructor ."<<endl;
+    }
+
+    void fun(){
+        cout<<
+    }
+};
+
+
+int main(){
+    Ninja a;
+    return 0;
+}

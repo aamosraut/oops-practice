@@ -1,0 +1,9 @@
+summarize table:
+
+Access Specifiers       within same class     child class     outside class
+
+private                 right                 wrong            wrong
+
+protected               right                 right             wrong
+
+public                  right                 right             right
